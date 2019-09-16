@@ -1,0 +1,2 @@
+Operación: 1+1
+Reseultados: binario = 1, octadecimal = 1, decimal = 1, hexadecimal = 1
